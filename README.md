@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Madhu Lal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Madan Lal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=🤖+Agentic+AI+%26+Multi-Agent+Systems+🤖;🦜+LangChain+%7C+🧠+LangGraph+%7C+🔗+RAG;📊+BE+IT+5th+Semester%7C+AI+Researcher;🚀+Building+Autonomous+AI+Systems!" alt="Typing SVG" />
