@@ -1,78 +1,84 @@
-# 👋 Hi, I'm Madan — AI Engineer building Agentic Systems
+# 👋 Hi, I'm Madan — Agentic AI Engineer
 
-I design and build **production-ready AI systems** using LLMs, RAG pipelines, and autonomous workflows.
+I build **production-ready AI systems** powered by LLMs, RAG pipelines, and autonomous agents.
 
-🔍 Focus Areas:
-- Agentic AI (LangGraph, multi-agent systems)
-- Retrieval-Augmented Generation (RAG)
+🚀 Specialized in:
+- Agentic AI (LangGraph, multi-agent orchestration)
+- RAG Systems (context-aware AI with vector databases)
 - LLM Applications (Groq, OpenAI, APIs)
-- AI Automation & Chatbots
+- AI Automation (real-world workflows & chatbots)
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
 ### 🧠 RAG Chatbot with LangGraph
-- Built a real-time conversational AI using LangGraph + Groq
-- Integrated document retrieval for context-aware responses
-- Designed modular pipeline for scalability
+A real-time AI assistant with memory and document retrieval.
 
-👉 *Tech:* Python, LangChain, LangGraph, Groq, Vector DB
+✅ Context-aware responses using RAG  
+✅ Built with LangGraph for agent workflows  
+✅ Scalable modular pipeline  
+
+👉 **Tech:** Python, LangChain, LangGraph, Groq, Vector DB  
 
 ---
 
-### 🤖 AI Automation Workflows
-- Developed AI agents for task automation
-- Integrated APIs + LLMs for decision-making systems
-- Focus on real-world use cases
+### 🤖 AI Automation Systems
+AI agents that automate real-world workflows.
+
+- API-integrated decision systems  
+- Task automation using LLM reasoning  
+- Designed for business use cases  
 
 ---
 
 ### 🏥 Patient Management System
-- Full-stack system for managing patient data
-- Applied structured backend design principles
+Structured full-stack system for managing healthcare data.
+
+- Clean backend architecture  
+- CRUD + data handling  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**
-- Python
+**AI/ML:**  
+Scikit-learn • TensorFlow • Neural Networks • CNNs  
 
-**AI/ML:**
-- Scikit-learn, TensorFlow, Neural Networks, CNNs
+**GenAI:**  
+LangChain • LangGraph • RAG • Groq API  
 
-**LLM / GenAI:**
-- LangChain, LangGraph, RAG, Groq API
+**Programming:**  
+Python  
 
-**Tools:**
-- Git, GitHub, REST APIs
+**Tools:**  
+Git • GitHub • REST APIs  
 
 ---
 
-## 📊 What I’m Currently Doing
+## 📊 Current Focus
 
 - Building **Agentic AI systems**
-- Improving **RAG architectures**
-- Learning **advanced system design for AI apps**
+- Improving **RAG architecture**
+- Learning **AI system design at scale**
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madan-genai&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madan-genai&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-- Portfolio: https://portfolio-website-three-omega.vercel.app/
-- LinkedIn: [https://www.linkedin.com/in/madanlal-agenticai/]
-- Email: [madanlalmegh2@gmail.com]
+- 🌍 Portfolio: https://portfolio-website-three-omega.vercel.app/
+- 💼 LinkedIn: [Add link]
+- 📧 Email: [Add email]
 
 ---
 
-## ⚡ Goal
+## ⚡ Vision
 
-To build **real-world AI products** and grow as a top-tier **Agentic AI Engineer**.
+To build **real-world AI products** and become a top-tier **Agentic AI Engineer**.
 
