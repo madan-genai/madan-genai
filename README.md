@@ -63,10 +63,11 @@ Git • GitHub • REST APIs
 - Learning **AI system design at scale**
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madan-genai&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madan-genai&theme=github_dark)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madan-genai&theme=github_dark)
 
 ---
 
