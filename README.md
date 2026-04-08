@@ -1,85 +1,45 @@
-# 👋 Hi, I'm Madan — Agentic AI Engineer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9D&height=300&section=header&text=Madan&fontSize=90&fontAlignY=35&desc=AI Engineer | Agentic AI & LLM Specialist&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+</div>
 
-I build **production-ready AI systems** powered by LLMs, RAG pipelines, and autonomous agents.
+<!-- VISITOR COUNT -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=madan-genai&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" alt="Profile Views" />
+</div>
+<br>
 
-🚀 Specialized in:
-- Agentic AI (LangGraph, multi-agent orchestration)
-- RAG Systems (context-aware AI with vector databases)
-- LLM Applications (Groq, OpenAI, APIs)
-- AI Automation (real-world workflows & chatbots)
+<!-- SOCIAL BADGES -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/madanlal-agenticai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:madanlalmegh2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/madan-genai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
----
-
-## 🔥 Featured Projects
-
-### 🧠 RAG Chatbot with LangGraph
-A real-time AI assistant with memory and document retrieval.
-
-✅ Context-aware responses using RAG  
-✅ Built with LangGraph for agent workflows  
-✅ Scalable modular pipeline  
-
-👉 **Tech:** Python, LangChain, LangGraph, Groq, Vector DB  
-
----
-
-### 🤖 AI Automation Systems
-AI agents that automate real-world workflows.
-
-- API-integrated decision systems  
-- Task automation using LLM reasoning  
-- Designed for business use cases  
+<!-- TYPING SVG ANIMATION -->
+<div align="center">
+  <a href="https://github.com/madan-genai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=50&lines=Building+Agentic+AI+Systems;RAG+Chatbots+%26+LLM+Apps;AI+Automation+Workflows;Coding+Real-World+AI+Solutions" alt="Typing effect" />
+  </a>
+</div>
 
 ---
 
-### 🏥 Patient Management System
-Structured full-stack system for managing healthcare data.
+### 👨‍💻 _About Me_
 
-- Clean backend architecture  
-- CRUD + data handling  
-
----
-
-## 🛠 Tech Stack
-
-**AI/ML:**  
-Scikit-learn • TensorFlow • Neural Networks • CNNs  
-
-**GenAI:**  
-LangChain • LangGraph • RAG • Groq API  
-
-**Programming:**  
-Python  
-
-**Tools:**  
-Git • GitHub • REST APIs  
-
----
-
-## 📊 Current Focus
-
-- Building **Agentic AI systems**
-- Improving **RAG architecture**
-- Learning **AI system design at scale**
-
----
-## 📈 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madan-genai&theme=github_dark)
-
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madan-genai&theme=github_dark)
-
----
-
-## 🌐 Connect
-
-- 🌍 Portfolio: https://portfolio-website-three-omega.vercel.app/
-- 💼 LinkedIn: [Add link]
-- 📧 Email: [Add email]
-
----
-
-## ⚡ Vision
-
-To build **real-world AI products** and become a top-tier **Agentic AI Engineer**.
-
+```javascript
+const Madan = {
+  pronouns: "he/him",
+  techStack: ["Python", "SQL"],
+  frameworks: ["LangChain", "LangGraph", "FastAPI", "Streamlit"],
+  architecture: ["Agentic AI Systems", "RAG Pipelines", "LLM Integrations"],
+  currentFocus: "Building production-ready AI & Agentic AI applications",
+  projects: ["RAG Chatbot", "AI Automation Workflows", "Patient Management System", "Agentic langgraph Chatbot],
+  education: "BE in IT, 5th Semester",
+  portfolio: "https://portfolio-website-three-omega.vercel.app/",
+};
